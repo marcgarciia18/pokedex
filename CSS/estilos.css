@@ -1,0 +1,77 @@
+.index{
+    background-image: url(../img/pprincipal/kanto-map.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Mochiy Pop P One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  
+}
+
+.pokemonindex{
+    text-align: center;
+    justify-content: center;
+    background-color: rgba(212, 212, 212, 0.7);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+    display: inline-block;
+}
+
+.menuindex{
+    display: flex;
+}
+
+.menu{
+    display: flex;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+}
+
+.legendariofondo{
+    background-color: rgba(241, 255, 135, 0.7);
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.evolucionesfuego {
+    background-color: rgba(255, 60, 60, 0.7);
+    border-radius: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.evolucionesplanta {
+    background-color: rgba(60, 255, 60, 0.7);
+    border-radius: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.evolucionesagua {
+    background-color: rgba(60, 232, 255, 0.7);
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+
+.pokemons{
+        font-family: "Mochiy Pop P One", sans-serif;
+        font-weight: 500;
+        font-style: normal; 
+        background-image: url(../img/fondo.png);
+        background-repeat: no-repeat; 
+        background-size: cover;
+        justify-content: center;
+        text-align: center;
+}
+
+.inicio {
+    background-color: rgba(255, 66, 173, 0.7);
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 50px;
+    display: inline-block;
+}

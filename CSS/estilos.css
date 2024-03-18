@@ -2,8 +2,8 @@
     background-image: url(../img/pprincipal/kanto-map.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: "Mochiy Pop P One", sans-serif;
-    font-weight: 400;
+    font-family: "Pokemon Solid", sans-serif;
+    font-weight: 600;
     font-style: normal;
   
 }
@@ -13,14 +13,12 @@
     justify-content: center;
     background-color: rgba(212, 212, 212, 0.7);
     border-radius: 20px;
-    padding: 10px;
+    padding: 5px;
     margin-bottom: 50px;
     display: inline-block;
 }
 
-.menuindex{
-    display: flex;
-}
+
 
 .menu{
     display: flex;
@@ -41,6 +39,7 @@
     margin-bottom: 10px;
     text-align: center;
     justify-content: center;
+    margin: 5px;
 }
 
 .evolucionesplanta {
@@ -49,16 +48,19 @@
     margin-bottom: 10px;
     text-align: center;
     justify-content: center;
+    margin: 5px;
 }
 
 .evolucionesagua {
     background-color: rgba(60, 232, 255, 0.7);
     border-radius: 20px;
     margin-bottom: 10px;
+    margin: 5px;
 }
 
 .pokemons{
-        font-family: "Mochiy Pop P One", sans-serif;
+        font-family: "Pokemon Solid", sans-serif;
+        letter-spacing: normal;
         font-weight: 500;
         font-style: normal; 
         background-image: url(../img/fondo.png);
@@ -74,4 +76,8 @@
     padding: 10px;
     margin-bottom: 50px;
     display: inline-block;
+}
+
+p{
+    font-size: larger;
 }
